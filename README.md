@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Tri Ayunia Patma Lubis**.
+My name is **Tri Ayunia Patma Lubis**.
 
-Saya seorang **Mahasiswa Jurusan Sistem Informasi** di [Universitas Andalas](https://www.unand.ac.id/).
+I am an **Information System Student** at [Universitas Andalas](https://www.unand.ac.id/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/triayuniapatmalubis/)ku ya.
+Let's connect here [Linkedin](https://www.linkedin.com/in/triayuniapatmalubis/).
 
 <p align="left">
 <a href="https://github.com/ttrrayl">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ttrrayl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ttrrayl&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ttrrayl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ttrrayl&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
