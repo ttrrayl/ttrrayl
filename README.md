@@ -2,7 +2,7 @@
 
 My name is **Tri Ayunia Patma Lubis**.
 
-I am an **Information System Student** at [Universitas Andalas](https://www.unand.ac.id/).
+I am an **Information System Student** at [Andalas University](https://www.unand.ac.id/).
 
 Let's connect here [Linkedin](https://www.linkedin.com/in/triayuniapatmalubis/).
 
